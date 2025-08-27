@@ -53,7 +53,7 @@ Model Performance
 - With class balancing (class_weight='balanced'):
   - Better recall and precision for fraud transactions
 
-- Accuracy Score: 0.98
+- Accuracy Score: 97%
 
 ## 📂 Project Structure
 ├── fraud_detection.ipynb   # Jupyter notebook version
